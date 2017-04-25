@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "#### test coverage for  [telegram-api (v0.7.9)](https://github.com/mdibaiee/node-telegram-api)  [![npm package](https://img.shields.io/npm/v/npmtest-telegram-api.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-telegram-api) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-telegram-api.svg)](https://travis-ci.org/npmtest/node-npmtest-telegram-api)",
+    "description": "#### basic test coverage for  [telegram-api (v0.7.9)](https://github.com/mdibaiee/node-telegram-api)  [![npm package](https://img.shields.io/npm/v/npmtest-telegram-api.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-telegram-api) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-telegram-api.svg)](https://travis-ci.org/npmtest/node-npmtest-telegram-api)",
     "devDependencies": {
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "telegram-api": "*",

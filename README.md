@@ -1,6 +1,6 @@
 # npmtest-telegram-api
 
-#### test coverage for  [telegram-api (v0.7.9)](https://github.com/mdibaiee/node-telegram-api)  [![npm package](https://img.shields.io/npm/v/npmtest-telegram-api.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-telegram-api) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-telegram-api.svg)](https://travis-ci.org/npmtest/node-npmtest-telegram-api)
+#### basic test coverage for  [telegram-api (v0.7.9)](https://github.com/mdibaiee/node-telegram-api)  [![npm package](https://img.shields.io/npm/v/npmtest-telegram-api.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-telegram-api) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-telegram-api.svg)](https://travis-ci.org/npmtest/node-npmtest-telegram-api)
 
 #### Control Telegram bots easily using the new Telegram API
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-telegram-api/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-telegram-api/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-telegram-api/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-telegram-api/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-telegram-api/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-telegram-api/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-telegram-api/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-telegram-api/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-telegram-api/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-telegram-api/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-telegram-api/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-telegram-api/build/coverage.html/index.html)
 
@@ -99,7 +99,8 @@
     "scripts": {
         "test": "grunt test"
     },
-    "version": "0.7.9"
+    "version": "0.7.9",
+    "bin": {}
 }
 ```
 
